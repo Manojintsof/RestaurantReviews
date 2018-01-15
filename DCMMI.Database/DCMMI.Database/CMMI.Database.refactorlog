@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Operations Version="1.0" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+  <Operation Name="Rename Refactor" Key="1a5e95ed-4bef-484d-a13b-dd19af8ee49f" ChangeDateTime="01/12/2018 10:27:26">
+    <Property Name="ElementName" Value="[dbo].[FK_Restaurant_RestaurantTypes]" />
+    <Property Name="ElementType" Value="SqlForeignKeyConstraint" />
+    <Property Name="ParentElementName" Value="[dbo].[Restaurant]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="[FK_Restaurant_RestaurantTypes_Id]" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="456aac1d-3ecf-4983-905d-975524d7b5ad" ChangeDateTime="01/12/2018 10:31:56">
+    <Property Name="ElementName" Value="[dbo].[FK_Reviews_Restaurant_Id]" />
+    <Property Name="ElementType" Value="SqlForeignKeyConstraint" />
+    <Property Name="ParentElementName" Value="[dbo].[Reviews]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="[FK_Reviews_Restaurant.Id]" />
+  </Operation>
+</Operations>

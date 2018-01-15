@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "CMMI.Database", "DCMMI.Database\CMMI.Database.sqlproj", "{283E85AC-8FF0-42FA-A751-B2FE256EF564}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{283E85AC-8FF0-42FA-A751-B2FE256EF564}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{283E85AC-8FF0-42FA-A751-B2FE256EF564}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{283E85AC-8FF0-42FA-A751-B2FE256EF564}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{283E85AC-8FF0-42FA-A751-B2FE256EF564}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{283E85AC-8FF0-42FA-A751-B2FE256EF564}.Release|Any CPU.Build.0 = Release|Any CPU
+		{283E85AC-8FF0-42FA-A751-B2FE256EF564}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {66F8759C-83E0-408F-AE0E-A3989BA4F6F9}
+	EndGlobalSection
+EndGlobal

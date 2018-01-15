@@ -1,0 +1,5 @@
+\\vmware-host\Shared Folders\Desktop\CMMI\DCMMI.Database\DCMMI.Database\bin\Debug\CMMI.Database.dacpac
+\\vmware-host\Shared Folders\Desktop\CMMI\DCMMI.Database\DCMMI.Database\bin\Debug\DCMMI.Database.dll
+\\vmware-host\Shared Folders\Desktop\CMMI\DCMMI.Database\DCMMI.Database\bin\Debug\DCMMI.Database.pdb
+\\vmware-host\Shared Folders\Desktop\CMMI\DCMMI.Database\DCMMI.Database\obj\Debug\DCMMI.Database.dll
+\\vmware-host\Shared Folders\Desktop\CMMI\DCMMI.Database\DCMMI.Database\obj\Debug\DCMMI.Database.pdb
